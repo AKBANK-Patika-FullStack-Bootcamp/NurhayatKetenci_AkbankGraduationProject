@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3183804c-e809-442c-a4e0-f502f06ccfcb": {
+      "ProjectGuid": "3183804c-e809-442c-a4e0-f502f06ccfcb",
+      "DisplayName": "AkbankNewProject",
+      "ColorIndex": 0
+    },
+    "2062e123-7837-4af5-8641-bb6ee5f6b483": {
+      "ProjectGuid": "2062e123-7837-4af5-8641-bb6ee5f6b483",
+      "DisplayName": "Business",
+      "ColorIndex": 1
+    },
+    "a7b01bbd-9e34-4794-bba3-97d402541769": {
+      "ProjectGuid": "a7b01bbd-9e34-4794-bba3-97d402541769",
+      "DisplayName": "Core",
+      "ColorIndex": 2
+    },
+    "b54b4cfc-f21b-4f29-aaf3-e33ac5729376": {
+      "ProjectGuid": "b54b4cfc-f21b-4f29-aaf3-e33ac5729376",
+      "DisplayName": "DataAccess",
+      "ColorIndex": 3
+    },
+    "3fa63a81-9529-4948-88af-40c2d1266930": {
+      "ProjectGuid": "3fa63a81-9529-4948-88af-40c2d1266930",
+      "DisplayName": "Entities",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Diğer Dosyalar",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 5
+}

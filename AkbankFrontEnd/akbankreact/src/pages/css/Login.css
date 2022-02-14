@@ -1,0 +1,31 @@
+body{
+    background-image: url("../../img/loginbackground.jpg");
+}
+.formdiv{
+    width: 42%;
+    border-style: initial;
+    border-radius: 89px;
+    background-color: #212529;
+    height: 373px;
+    padding: 3%;
+    margin: auto;
+    margin-top: 161px;
+}
+.btn{
+    margin: auto;
+    width: 220px;
+    margin-top: 37px;
+    background-color: white;
+    color: black;
+    font-family: fangsong;
+}
+.text{
+    margin-left: 257px;
+    margin-bottom: 29px;
+    font-family: fangsong;
+    color: white;
+}
+.labeltxt{
+    font-family: fangsong;
+    color: white;
+}

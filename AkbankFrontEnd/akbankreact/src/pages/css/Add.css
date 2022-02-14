@@ -1,0 +1,16 @@
+.drop{
+    margin-bottom: 2%;
+}
+.addDiv{
+    border-style: initial;
+    width: 64%;
+    padding: 4%;
+    border-radius: 89px;
+    background-color: #f7f6f6;
+    margin-left: 18%;
+}
+.dropd{
+    margin-top: 15px;
+    background-color: powderblue;
+    width: 30%;
+}

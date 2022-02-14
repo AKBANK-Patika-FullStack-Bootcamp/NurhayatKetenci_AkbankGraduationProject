@@ -1,0 +1,411 @@
+﻿++Çözüm 'AkbankNewProject' ‎(5 projeden 5 tanesi)
+i:{00000000-0000-0000-0000-000000000000}:AkbankNewProject.sln
+++AkbankNewProject
+i:{00000000-0000-0000-0000-000000000000}:AkbankNewProject
+++Bağımlılıklar
+i:{3183804c-e809-442c-a4e0-f502f06ccfcb}:>790
+i:{2062e123-7837-4af5-8641-bb6ee5f6b483}:>457
+i:{b54b4cfc-f21b-4f29-aaf3-e33ac5729376}:>662
+i:{3fa63a81-9529-4948-88af-40c2d1266930}:>663
+i:{a7b01bbd-9e34-4794-bba3-97d402541769}:>456
+++Connected Services 
+i:{3183804c-e809-442c-a4e0-f502f06ccfcb}:>791
+++Properties
+i:{3183804c-e809-442c-a4e0-f502f06ccfcb}:c:\users\deneme\source\repos\akbanknewproject\akbanknewproject\properties\
+++Controllers
+i:{3183804c-e809-442c-a4e0-f502f06ccfcb}:c:\users\deneme\source\repos\akbanknewproject\akbanknewproject\controllers\
+++ApartmentsController.cs
+i:{3183804c-e809-442c-a4e0-f502f06ccfcb}:c:\users\deneme\source\repos\akbanknewproject\akbanknewproject\controllers\apartmentscontroller.cs
+++AuthController.cs
+i:{3183804c-e809-442c-a4e0-f502f06ccfcb}:c:\users\deneme\source\repos\akbanknewproject\akbanknewproject\controllers\authcontroller.cs
+++CreditCardsController.cs
+i:{3183804c-e809-442c-a4e0-f502f06ccfcb}:c:\users\deneme\source\repos\akbanknewproject\akbanknewproject\controllers\creditcardscontroller.cs
+++InvoicesController.cs
+i:{3183804c-e809-442c-a4e0-f502f06ccfcb}:c:\users\deneme\source\repos\akbanknewproject\akbanknewproject\controllers\invoicescontroller.cs
+++MessageController.cs
+i:{3183804c-e809-442c-a4e0-f502f06ccfcb}:c:\users\deneme\source\repos\akbanknewproject\akbanknewproject\controllers\messagecontroller.cs
+++PaymentController.cs
+i:{3183804c-e809-442c-a4e0-f502f06ccfcb}:c:\users\deneme\source\repos\akbanknewproject\akbanknewproject\controllers\paymentcontroller.cs
+++UsersController.cs
+i:{3183804c-e809-442c-a4e0-f502f06ccfcb}:c:\users\deneme\source\repos\akbanknewproject\akbanknewproject\controllers\userscontroller.cs
+++appsettings.json
+i:{3183804c-e809-442c-a4e0-f502f06ccfcb}:c:\users\deneme\source\repos\akbanknewproject\akbanknewproject\appsettings.json
+++Program.cs
+i:{3183804c-e809-442c-a4e0-f502f06ccfcb}:c:\users\deneme\source\repos\akbanknewproject\akbanknewproject\program.cs
+++Çerçeveler
+i:{3183804c-e809-442c-a4e0-f502f06ccfcb}:çerçeveler
+i:{2062e123-7837-4af5-8641-bb6ee5f6b483}:çerçeveler
+i:{b54b4cfc-f21b-4f29-aaf3-e33ac5729376}:çerçeveler
+i:{3fa63a81-9529-4948-88af-40c2d1266930}:çerçeveler
+i:{a7b01bbd-9e34-4794-bba3-97d402541769}:çerçeveler
+++Çözümleyiciler
+i:{3183804c-e809-442c-a4e0-f502f06ccfcb}:çözümleyiciler
+i:{2062e123-7837-4af5-8641-bb6ee5f6b483}:çözümleyiciler
+i:{b54b4cfc-f21b-4f29-aaf3-e33ac5729376}:çözümleyiciler
+i:{3fa63a81-9529-4948-88af-40c2d1266930}:çözümleyiciler
+i:{a7b01bbd-9e34-4794-bba3-97d402541769}:çözümleyiciler
+++Paketler
+i:{3183804c-e809-442c-a4e0-f502f06ccfcb}:paketler
+i:{2062e123-7837-4af5-8641-bb6ee5f6b483}:paketler
+i:{b54b4cfc-f21b-4f29-aaf3-e33ac5729376}:paketler
+i:{a7b01bbd-9e34-4794-bba3-97d402541769}:paketler
+++Projeler
+i:{3183804c-e809-442c-a4e0-f502f06ccfcb}:projeler
+i:{2062e123-7837-4af5-8641-bb6ee5f6b483}:projeler
+i:{b54b4cfc-f21b-4f29-aaf3-e33ac5729376}:projeler
+i:{3fa63a81-9529-4948-88af-40c2d1266930}:projeler
+++Hizmet bağımlılığı bulunamadı
+i:{3183804c-e809-442c-a4e0-f502f06ccfcb}:>792
+++launchSettings.json
+i:{3183804c-e809-442c-a4e0-f502f06ccfcb}:c:\users\deneme\source\repos\akbanknewproject\akbanknewproject\properties\launchsettings.json
+++appsettings.Development.json
+i:{3183804c-e809-442c-a4e0-f502f06ccfcb}:c:\users\deneme\source\repos\akbanknewproject\akbanknewproject\appsettings.development.json
+++Microsoft.AspNetCore.App
+i:{3183804c-e809-442c-a4e0-f502f06ccfcb}:c:\users\deneme\source\repos\akbanknewproject\akbanknewproject\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{3183804c-e809-442c-a4e0-f502f06ccfcb}:c:\users\deneme\source\repos\akbanknewproject\akbanknewproject\microsoft.netcore.app
+i:{2062e123-7837-4af5-8641-bb6ee5f6b483}:c:\users\deneme\source\repos\akbanknewproject\business\microsoft.netcore.app
+i:{b54b4cfc-f21b-4f29-aaf3-e33ac5729376}:c:\users\deneme\source\repos\akbanknewproject\dataaccess\microsoft.netcore.app
+i:{3fa63a81-9529-4948-88af-40c2d1266930}:c:\users\deneme\source\repos\akbanknewproject\entities\microsoft.netcore.app
+i:{a7b01bbd-9e34-4794-bba3-97d402541769}:c:\users\deneme\source\repos\akbanknewproject\core\microsoft.netcore.app
+++Microsoft.AspNetCore.Analyzers
+i:{3183804c-e809-442c-a4e0-f502f06ccfcb}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{3183804c-e809-442c-a4e0-f502f06ccfcb}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+i:{2062e123-7837-4af5-8641-bb6ee5f6b483}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+i:{b54b4cfc-f21b-4f29-aaf3-e33ac5729376}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+i:{3fa63a81-9529-4948-88af-40c2d1266930}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+i:{a7b01bbd-9e34-4794-bba3-97d402541769}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{3183804c-e809-442c-a4e0-f502f06ccfcb}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+i:{2062e123-7837-4af5-8641-bb6ee5f6b483}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+i:{b54b4cfc-f21b-4f29-aaf3-e33ac5729376}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+i:{3fa63a81-9529-4948-88af-40c2d1266930}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+i:{a7b01bbd-9e34-4794-bba3-97d402541769}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{3183804c-e809-442c-a4e0-f502f06ccfcb}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{3183804c-e809-442c-a4e0-f502f06ccfcb}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.Internal.SourceGenerator.Transport
+i:{3183804c-e809-442c-a4e0-f502f06ccfcb}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.internal.sourcegenerator.transport.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{3183804c-e809-442c-a4e0-f502f06ccfcb}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{2062e123-7837-4af5-8641-bb6ee5f6b483}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{b54b4cfc-f21b-4f29-aaf3-e33ac5729376}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{3fa63a81-9529-4948-88af-40c2d1266930}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{a7b01bbd-9e34-4794-bba3-97d402541769}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{3183804c-e809-442c-a4e0-f502f06ccfcb}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{2062e123-7837-4af5-8641-bb6ee5f6b483}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{b54b4cfc-f21b-4f29-aaf3-e33ac5729376}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{3fa63a81-9529-4948-88af-40c2d1266930}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{a7b01bbd-9e34-4794-bba3-97d402541769}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{3183804c-e809-442c-a4e0-f502f06ccfcb}:c:\users\deneme\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.1\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{2062e123-7837-4af5-8641-bb6ee5f6b483}:c:\users\deneme\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.1\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{b54b4cfc-f21b-4f29-aaf3-e33ac5729376}:c:\users\deneme\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.1\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{3fa63a81-9529-4948-88af-40c2d1266930}:c:\users\deneme\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.1\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{a7b01bbd-9e34-4794-bba3-97d402541769}:c:\users\deneme\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.1\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{3183804c-e809-442c-a4e0-f502f06ccfcb}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{2062e123-7837-4af5-8641-bb6ee5f6b483}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{b54b4cfc-f21b-4f29-aaf3-e33ac5729376}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{3fa63a81-9529-4948-88af-40c2d1266930}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{a7b01bbd-9e34-4794-bba3-97d402541769}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{3183804c-e809-442c-a4e0-f502f06ccfcb}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++System.Text.Json.SourceGeneration
+i:{3183804c-e809-442c-a4e0-f502f06ccfcb}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{2062e123-7837-4af5-8641-bb6ee5f6b483}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{b54b4cfc-f21b-4f29-aaf3-e33ac5729376}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{3fa63a81-9529-4948-88af-40c2d1266930}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{a7b01bbd-9e34-4794-bba3-97d402541769}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Autofac.Extensions.DependencyInjection (7.2.0)
+i:{3183804c-e809-442c-a4e0-f502f06ccfcb}:>822
+i:{2062e123-7837-4af5-8641-bb6ee5f6b483}:>821
+i:{a7b01bbd-9e34-4794-bba3-97d402541769}:>849
+++Microsoft.AspNetCore.Authentication.JwtBearer (6.0.2)
+i:{3183804c-e809-442c-a4e0-f502f06ccfcb}:>827
+i:{a7b01bbd-9e34-4794-bba3-97d402541769}:>857
+++Microsoft.Extensions.Configuration (6.0.0)
+i:{3183804c-e809-442c-a4e0-f502f06ccfcb}:>828
+i:{b54b4cfc-f21b-4f29-aaf3-e33ac5729376}:>882
+i:{a7b01bbd-9e34-4794-bba3-97d402541769}:>858
+++Microsoft.Extensions.Configuration.Binder (6.0.0)
+i:{3183804c-e809-442c-a4e0-f502f06ccfcb}:>826
+i:{a7b01bbd-9e34-4794-bba3-97d402541769}:>852
+++Swashbuckle.AspNetCore (6.2.3)
+i:{3183804c-e809-442c-a4e0-f502f06ccfcb}:>824
+++Business
+i:{3183804c-e809-442c-a4e0-f502f06ccfcb}:c:\users\deneme\source\repos\akbanknewproject\business\bin\debug\net6.0\business.dll
+i:{00000000-0000-0000-0000-000000000000}:Business
+i:{a7b01bbd-9e34-4794-bba3-97d402541769}:c:\users\deneme\source\repos\akbanknewproject\core\utilities\business\
+++Entities
+i:{3183804c-e809-442c-a4e0-f502f06ccfcb}:c:\users\deneme\source\repos\akbanknewproject\entities\bin\debug\net6.0\entities.dll
+i:{2062e123-7837-4af5-8641-bb6ee5f6b483}:c:\users\deneme\source\repos\akbanknewproject\entities\bin\debug\net6.0\entities.dll
+i:{b54b4cfc-f21b-4f29-aaf3-e33ac5729376}:c:\users\deneme\source\repos\akbanknewproject\entities\bin\debug\net6.0\entities.dll
+i:{00000000-0000-0000-0000-000000000000}:Entities
+i:{a7b01bbd-9e34-4794-bba3-97d402541769}:c:\users\deneme\source\repos\akbanknewproject\core\entities\
+++Abstract
+i:{2062e123-7837-4af5-8641-bb6ee5f6b483}:c:\users\deneme\source\repos\akbanknewproject\business\abstract\
+i:{b54b4cfc-f21b-4f29-aaf3-e33ac5729376}:c:\users\deneme\source\repos\akbanknewproject\dataaccess\abstract\
+++IApartmentService.cs
+i:{2062e123-7837-4af5-8641-bb6ee5f6b483}:c:\users\deneme\source\repos\akbanknewproject\business\abstract\iapartmentservice.cs
+++IAuthService.cs
+i:{2062e123-7837-4af5-8641-bb6ee5f6b483}:c:\users\deneme\source\repos\akbanknewproject\business\abstract\iauthservice.cs
+++ICreditCartService.cs
+i:{2062e123-7837-4af5-8641-bb6ee5f6b483}:c:\users\deneme\source\repos\akbanknewproject\business\abstract\icreditcartservice.cs
+++IInvoicesService.cs
+i:{2062e123-7837-4af5-8641-bb6ee5f6b483}:c:\users\deneme\source\repos\akbanknewproject\business\abstract\iinvoicesservice.cs
+++IMessageService.cs
+i:{2062e123-7837-4af5-8641-bb6ee5f6b483}:c:\users\deneme\source\repos\akbanknewproject\business\abstract\imessageservice.cs
+++IPaymentService.cs
+i:{2062e123-7837-4af5-8641-bb6ee5f6b483}:c:\users\deneme\source\repos\akbanknewproject\business\abstract\ipaymentservice.cs
+++IUserService.cs
+i:{2062e123-7837-4af5-8641-bb6ee5f6b483}:c:\users\deneme\source\repos\akbanknewproject\business\abstract\iuserservice.cs
+++BusinessAspect
+i:{2062e123-7837-4af5-8641-bb6ee5f6b483}:c:\users\deneme\source\repos\akbanknewproject\business\businessaspect\
+++Concrete
+i:{2062e123-7837-4af5-8641-bb6ee5f6b483}:c:\users\deneme\source\repos\akbanknewproject\business\concrete\
+i:{b54b4cfc-f21b-4f29-aaf3-e33ac5729376}:c:\users\deneme\source\repos\akbanknewproject\dataaccess\concrete\
+i:{3fa63a81-9529-4948-88af-40c2d1266930}:c:\users\deneme\source\repos\akbanknewproject\entities\concrete\
+i:{a7b01bbd-9e34-4794-bba3-97d402541769}:c:\users\deneme\source\repos\akbanknewproject\core\entities\concrete\
+++ApartmentManager.cs
+i:{2062e123-7837-4af5-8641-bb6ee5f6b483}:c:\users\deneme\source\repos\akbanknewproject\business\concrete\apartmentmanager.cs
+++AuthManager.cs
+i:{2062e123-7837-4af5-8641-bb6ee5f6b483}:c:\users\deneme\source\repos\akbanknewproject\business\concrete\authmanager.cs
+++CreditCartManager.cs
+i:{2062e123-7837-4af5-8641-bb6ee5f6b483}:c:\users\deneme\source\repos\akbanknewproject\business\concrete\creditcartmanager.cs
+++InvoicesManager.cs
+i:{2062e123-7837-4af5-8641-bb6ee5f6b483}:c:\users\deneme\source\repos\akbanknewproject\business\concrete\invoicesmanager.cs
+++MessageManager.cs
+i:{2062e123-7837-4af5-8641-bb6ee5f6b483}:c:\users\deneme\source\repos\akbanknewproject\business\concrete\messagemanager.cs
+++PaymentManager.cs
+i:{2062e123-7837-4af5-8641-bb6ee5f6b483}:c:\users\deneme\source\repos\akbanknewproject\business\concrete\paymentmanager.cs
+++UserManager.cs
+i:{2062e123-7837-4af5-8641-bb6ee5f6b483}:c:\users\deneme\source\repos\akbanknewproject\business\concrete\usermanager.cs
+++Constants
+i:{2062e123-7837-4af5-8641-bb6ee5f6b483}:c:\users\deneme\source\repos\akbanknewproject\business\constants\
+++DependencyResolvers
+i:{2062e123-7837-4af5-8641-bb6ee5f6b483}:c:\users\deneme\source\repos\akbanknewproject\business\dependencyresolvers\
+i:{a7b01bbd-9e34-4794-bba3-97d402541769}:c:\users\deneme\source\repos\akbanknewproject\core\dependencyresolvers\
+++Autofac
+i:{2062e123-7837-4af5-8641-bb6ee5f6b483}:c:\users\deneme\source\repos\akbanknewproject\business\businessaspect\autofac\
+i:{2062e123-7837-4af5-8641-bb6ee5f6b483}:c:\users\deneme\source\repos\akbanknewproject\business\dependencyresolvers\autofac\
+i:{a7b01bbd-9e34-4794-bba3-97d402541769}:c:\users\deneme\source\repos\akbanknewproject\core\aspects\autofac\
+++Messages.cs
+i:{2062e123-7837-4af5-8641-bb6ee5f6b483}:c:\users\deneme\source\repos\akbanknewproject\business\constants\messages.cs
+++Autofac (6.3.0)
+i:{2062e123-7837-4af5-8641-bb6ee5f6b483}:>825
+i:{a7b01bbd-9e34-4794-bba3-97d402541769}:>860
+++Autofac.Extras.DynamicProxy (6.0.0)
+i:{2062e123-7837-4af5-8641-bb6ee5f6b483}:>823
+i:{a7b01bbd-9e34-4794-bba3-97d402541769}:>854
+++Core
+i:{2062e123-7837-4af5-8641-bb6ee5f6b483}:c:\users\deneme\source\repos\akbanknewproject\core\bin\debug\net6.0\core.dll
+i:{b54b4cfc-f21b-4f29-aaf3-e33ac5729376}:c:\users\deneme\source\repos\akbanknewproject\core\bin\debug\net6.0\core.dll
+i:{3fa63a81-9529-4948-88af-40c2d1266930}:c:\users\deneme\source\repos\akbanknewproject\core\bin\debug\net6.0\core.dll
+i:{00000000-0000-0000-0000-000000000000}:Core
+++DataAccess
+i:{2062e123-7837-4af5-8641-bb6ee5f6b483}:c:\users\deneme\source\repos\akbanknewproject\dataaccess\bin\debug\net6.0\dataaccess.dll
+i:{00000000-0000-0000-0000-000000000000}:DataAccess
+i:{a7b01bbd-9e34-4794-bba3-97d402541769}:c:\users\deneme\source\repos\akbanknewproject\core\dataaccess\
+++SecuredOperation.cs
+i:{2062e123-7837-4af5-8641-bb6ee5f6b483}:c:\users\deneme\source\repos\akbanknewproject\business\businessaspect\autofac\securedoperation.cs
+++AutofacBusinessModule.cs
+i:{2062e123-7837-4af5-8641-bb6ee5f6b483}:c:\users\deneme\source\repos\akbanknewproject\business\dependencyresolvers\autofac\autofacbusinessmodule.cs
+++IApartmentDal.cs
+i:{b54b4cfc-f21b-4f29-aaf3-e33ac5729376}:c:\users\deneme\source\repos\akbanknewproject\dataaccess\abstract\iapartmentdal.cs
+++ICreditCartDal.cs
+i:{b54b4cfc-f21b-4f29-aaf3-e33ac5729376}:c:\users\deneme\source\repos\akbanknewproject\dataaccess\abstract\icreditcartdal.cs
+++IInvoicesDal.cs
+i:{b54b4cfc-f21b-4f29-aaf3-e33ac5729376}:c:\users\deneme\source\repos\akbanknewproject\dataaccess\abstract\iinvoicesdal.cs
+++IMessageDal.cs
+i:{b54b4cfc-f21b-4f29-aaf3-e33ac5729376}:c:\users\deneme\source\repos\akbanknewproject\dataaccess\abstract\imessagedal.cs
+++IPaymentDal.cs
+i:{b54b4cfc-f21b-4f29-aaf3-e33ac5729376}:c:\users\deneme\source\repos\akbanknewproject\dataaccess\abstract\ipaymentdal.cs
+++IUserDal.cs
+i:{b54b4cfc-f21b-4f29-aaf3-e33ac5729376}:c:\users\deneme\source\repos\akbanknewproject\dataaccess\abstract\iuserdal.cs
+++EntityFramework
+i:{b54b4cfc-f21b-4f29-aaf3-e33ac5729376}:c:\users\deneme\source\repos\akbanknewproject\dataaccess\concrete\entityframework\
+i:{a7b01bbd-9e34-4794-bba3-97d402541769}:c:\users\deneme\source\repos\akbanknewproject\core\dataaccess\entityframework\
+++EfApartmentDal.cs
+i:{b54b4cfc-f21b-4f29-aaf3-e33ac5729376}:c:\users\deneme\source\repos\akbanknewproject\dataaccess\concrete\entityframework\efapartmentdal.cs
+++EfCreditCartDal.cs
+i:{b54b4cfc-f21b-4f29-aaf3-e33ac5729376}:c:\users\deneme\source\repos\akbanknewproject\dataaccess\concrete\entityframework\efcreditcartdal.cs
+++EfInvoicesDal.cs
+i:{b54b4cfc-f21b-4f29-aaf3-e33ac5729376}:c:\users\deneme\source\repos\akbanknewproject\dataaccess\concrete\entityframework\efinvoicesdal.cs
+++EfMessageDal.cs
+i:{b54b4cfc-f21b-4f29-aaf3-e33ac5729376}:c:\users\deneme\source\repos\akbanknewproject\dataaccess\concrete\entityframework\efmessagedal.cs
+++EfPaymentDal.cs
+i:{b54b4cfc-f21b-4f29-aaf3-e33ac5729376}:c:\users\deneme\source\repos\akbanknewproject\dataaccess\concrete\entityframework\efpaymentdal.cs
+++EfUserDal.cs
+i:{b54b4cfc-f21b-4f29-aaf3-e33ac5729376}:c:\users\deneme\source\repos\akbanknewproject\dataaccess\concrete\entityframework\efuserdal.cs
+++SiteContext.cs
+i:{b54b4cfc-f21b-4f29-aaf3-e33ac5729376}:c:\users\deneme\source\repos\akbanknewproject\dataaccess\concrete\entityframework\sitecontext.cs
+++Microsoft.EntityFrameworkCore (6.0.1)
+i:{b54b4cfc-f21b-4f29-aaf3-e33ac5729376}:>878
+i:{a7b01bbd-9e34-4794-bba3-97d402541769}:>847
+++Microsoft.EntityFrameworkCore.SqlServer (6.0.1)
+i:{b54b4cfc-f21b-4f29-aaf3-e33ac5729376}:>880
+i:{a7b01bbd-9e34-4794-bba3-97d402541769}:>848
+++Apartment.cs
+i:{3fa63a81-9529-4948-88af-40c2d1266930}:c:\users\deneme\source\repos\akbanknewproject\entities\concrete\apartment.cs
+++CreditCart.cs
+i:{3fa63a81-9529-4948-88af-40c2d1266930}:c:\users\deneme\source\repos\akbanknewproject\entities\concrete\creditcart.cs
+++Invoices.cs
+i:{3fa63a81-9529-4948-88af-40c2d1266930}:c:\users\deneme\source\repos\akbanknewproject\entities\concrete\invoices.cs
+++Message.cs
+i:{3fa63a81-9529-4948-88af-40c2d1266930}:c:\users\deneme\source\repos\akbanknewproject\entities\concrete\message.cs
+++Payment.cs
+i:{3fa63a81-9529-4948-88af-40c2d1266930}:c:\users\deneme\source\repos\akbanknewproject\entities\concrete\payment.cs
+++DTOs
+i:{3fa63a81-9529-4948-88af-40c2d1266930}:c:\users\deneme\source\repos\akbanknewproject\entities\dtos\
+++ApartmentDetailDto.cs
+i:{3fa63a81-9529-4948-88af-40c2d1266930}:c:\users\deneme\source\repos\akbanknewproject\entities\dtos\apartmentdetaildto.cs
+++MessageDetailDto.cs
+i:{3fa63a81-9529-4948-88af-40c2d1266930}:c:\users\deneme\source\repos\akbanknewproject\entities\dtos\messagedetaildto.cs
+++UserDetailDto.cs
+i:{3fa63a81-9529-4948-88af-40c2d1266930}:c:\users\deneme\source\repos\akbanknewproject\entities\dtos\userdetaildto.cs
+++UserForLoginDto.cs
+i:{3fa63a81-9529-4948-88af-40c2d1266930}:c:\users\deneme\source\repos\akbanknewproject\entities\dtos\userforlogindto.cs
+++UserForRegisterDto.cs
+i:{3fa63a81-9529-4948-88af-40c2d1266930}:c:\users\deneme\source\repos\akbanknewproject\entities\dtos\userforregisterdto.cs
+++UserForUpdateDto.cs
+i:{3fa63a81-9529-4948-88af-40c2d1266930}:c:\users\deneme\source\repos\akbanknewproject\entities\dtos\userforupdatedto.cs
+++Aspects
+i:{a7b01bbd-9e34-4794-bba3-97d402541769}:c:\users\deneme\source\repos\akbanknewproject\core\aspects\
+++CrossCuttingConcerns
+i:{a7b01bbd-9e34-4794-bba3-97d402541769}:c:\users\deneme\source\repos\akbanknewproject\core\crosscuttingconcerns\
+++Extensions
+i:{a7b01bbd-9e34-4794-bba3-97d402541769}:c:\users\deneme\source\repos\akbanknewproject\core\extensions\
+++Utilities
+i:{a7b01bbd-9e34-4794-bba3-97d402541769}:c:\users\deneme\source\repos\akbanknewproject\core\utilities\
+++Caching
+i:{a7b01bbd-9e34-4794-bba3-97d402541769}:c:\users\deneme\source\repos\akbanknewproject\core\crosscuttingconcerns\caching\
+i:{a7b01bbd-9e34-4794-bba3-97d402541769}:c:\users\deneme\source\repos\akbanknewproject\core\aspects\autofac\caching\
+++Validation
+i:{a7b01bbd-9e34-4794-bba3-97d402541769}:c:\users\deneme\source\repos\akbanknewproject\core\crosscuttingconcerns\validation\
+i:{a7b01bbd-9e34-4794-bba3-97d402541769}:c:\users\deneme\source\repos\akbanknewproject\core\aspects\autofac\validation\
+++IEntityRepository.cs
+i:{a7b01bbd-9e34-4794-bba3-97d402541769}:c:\users\deneme\source\repos\akbanknewproject\core\dataaccess\ientityrepository.cs
+++CoreModule.cs
+i:{a7b01bbd-9e34-4794-bba3-97d402541769}:c:\users\deneme\source\repos\akbanknewproject\core\dependencyresolvers\coremodule.cs
+++IDto.cs
+i:{a7b01bbd-9e34-4794-bba3-97d402541769}:c:\users\deneme\source\repos\akbanknewproject\core\entities\idto.cs
+++IEntity.cs
+i:{a7b01bbd-9e34-4794-bba3-97d402541769}:c:\users\deneme\source\repos\akbanknewproject\core\entities\ientity.cs
+++ClaimExtensions.cs
+i:{a7b01bbd-9e34-4794-bba3-97d402541769}:c:\users\deneme\source\repos\akbanknewproject\core\extensions\claimextensions.cs
+++ClaimsPrincipalExtensions.cs
+i:{a7b01bbd-9e34-4794-bba3-97d402541769}:c:\users\deneme\source\repos\akbanknewproject\core\extensions\claimsprincipalextensions.cs
+++Class1.cs
+i:{a7b01bbd-9e34-4794-bba3-97d402541769}:c:\users\deneme\source\repos\akbanknewproject\core\extensions\class1.cs
+++ErrorDetails.cs
+i:{a7b01bbd-9e34-4794-bba3-97d402541769}:c:\users\deneme\source\repos\akbanknewproject\core\extensions\errordetails.cs
+++ExceptionMiddleware.cs
+i:{a7b01bbd-9e34-4794-bba3-97d402541769}:c:\users\deneme\source\repos\akbanknewproject\core\extensions\exceptionmiddleware.cs
+++ServiceCollectionExtensions.cs
+i:{a7b01bbd-9e34-4794-bba3-97d402541769}:c:\users\deneme\source\repos\akbanknewproject\core\extensions\servicecollectionextensions.cs
+++FileHelper
+i:{a7b01bbd-9e34-4794-bba3-97d402541769}:c:\users\deneme\source\repos\akbanknewproject\core\utilities\filehelper\
+++Interceptors
+i:{a7b01bbd-9e34-4794-bba3-97d402541769}:c:\users\deneme\source\repos\akbanknewproject\core\utilities\interceptors\
+++IoC
+i:{a7b01bbd-9e34-4794-bba3-97d402541769}:c:\users\deneme\source\repos\akbanknewproject\core\utilities\ioc\
+++Results
+i:{a7b01bbd-9e34-4794-bba3-97d402541769}:c:\users\deneme\source\repos\akbanknewproject\core\utilities\results\
+++Security
+i:{a7b01bbd-9e34-4794-bba3-97d402541769}:c:\users\deneme\source\repos\akbanknewproject\core\utilities\security\
+++FluentValidation (10.3.6)
+i:{a7b01bbd-9e34-4794-bba3-97d402541769}:>853
+++Microsoft.AspNetCore.Http (2.2.2)
+i:{a7b01bbd-9e34-4794-bba3-97d402541769}:>856
+++Microsoft.Extensions.Caching.Memory (6.0.0)
+i:{a7b01bbd-9e34-4794-bba3-97d402541769}:>859
+++Microsoft.Extensions.DependencyInjection (6.0.0)
+i:{a7b01bbd-9e34-4794-bba3-97d402541769}:>855
+++Newtonsoft.Json (13.0.1)
+i:{a7b01bbd-9e34-4794-bba3-97d402541769}:>851
+++System.IdentityModel.Tokens.Jwt (6.15.1)
+i:{a7b01bbd-9e34-4794-bba3-97d402541769}:>850
+++Performance
+i:{a7b01bbd-9e34-4794-bba3-97d402541769}:c:\users\deneme\source\repos\akbanknewproject\core\aspects\autofac\performance\
+++Transaction
+i:{a7b01bbd-9e34-4794-bba3-97d402541769}:c:\users\deneme\source\repos\akbanknewproject\core\aspects\autofac\transaction\
+++Microsoft
+i:{a7b01bbd-9e34-4794-bba3-97d402541769}:c:\users\deneme\source\repos\akbanknewproject\core\crosscuttingconcerns\caching\microsoft\
+++ICacheManager.cs
+i:{a7b01bbd-9e34-4794-bba3-97d402541769}:c:\users\deneme\source\repos\akbanknewproject\core\crosscuttingconcerns\caching\icachemanager.cs
+++ValidationTool.cs
+i:{a7b01bbd-9e34-4794-bba3-97d402541769}:c:\users\deneme\source\repos\akbanknewproject\core\crosscuttingconcerns\validation\validationtool.cs
+++EfEntityRepositoryBase.cs
+i:{a7b01bbd-9e34-4794-bba3-97d402541769}:c:\users\deneme\source\repos\akbanknewproject\core\dataaccess\entityframework\efentityrepositorybase.cs
+++OperationClaim.cs
+i:{a7b01bbd-9e34-4794-bba3-97d402541769}:c:\users\deneme\source\repos\akbanknewproject\core\entities\concrete\operationclaim.cs
+++User.cs
+i:{a7b01bbd-9e34-4794-bba3-97d402541769}:c:\users\deneme\source\repos\akbanknewproject\core\entities\concrete\user.cs
+++UserOperationClaim.cs
+i:{a7b01bbd-9e34-4794-bba3-97d402541769}:c:\users\deneme\source\repos\akbanknewproject\core\entities\concrete\useroperationclaim.cs
+++BusinessRules.cs
+i:{a7b01bbd-9e34-4794-bba3-97d402541769}:c:\users\deneme\source\repos\akbanknewproject\core\utilities\business\businessrules.cs
+++CarImagesHelper.cs
+i:{a7b01bbd-9e34-4794-bba3-97d402541769}:c:\users\deneme\source\repos\akbanknewproject\core\utilities\filehelper\carimageshelper.cs
+++AspectInterceptorSelector.cs
+i:{a7b01bbd-9e34-4794-bba3-97d402541769}:c:\users\deneme\source\repos\akbanknewproject\core\utilities\interceptors\aspectinterceptorselector.cs
+++MethodInterception.cs
+i:{a7b01bbd-9e34-4794-bba3-97d402541769}:c:\users\deneme\source\repos\akbanknewproject\core\utilities\interceptors\methodinterception.cs
+++MethodInterceptionBaseAttribute.cs
+i:{a7b01bbd-9e34-4794-bba3-97d402541769}:c:\users\deneme\source\repos\akbanknewproject\core\utilities\interceptors\methodinterceptionbaseattribute.cs
+++ICoreModule.cs
+i:{a7b01bbd-9e34-4794-bba3-97d402541769}:c:\users\deneme\source\repos\akbanknewproject\core\utilities\ioc\icoremodule.cs
+++ServiceTool.cs
+i:{a7b01bbd-9e34-4794-bba3-97d402541769}:c:\users\deneme\source\repos\akbanknewproject\core\utilities\ioc\servicetool.cs
+++DataResult.cs
+i:{a7b01bbd-9e34-4794-bba3-97d402541769}:c:\users\deneme\source\repos\akbanknewproject\core\utilities\results\dataresult.cs
+++ErrorDataResult.cs
+i:{a7b01bbd-9e34-4794-bba3-97d402541769}:c:\users\deneme\source\repos\akbanknewproject\core\utilities\results\errordataresult.cs
+++ErrorResult.cs
+i:{a7b01bbd-9e34-4794-bba3-97d402541769}:c:\users\deneme\source\repos\akbanknewproject\core\utilities\results\errorresult.cs
+++IDataResult.cs
+i:{a7b01bbd-9e34-4794-bba3-97d402541769}:c:\users\deneme\source\repos\akbanknewproject\core\utilities\results\idataresult.cs
+++IResult.cs
+i:{a7b01bbd-9e34-4794-bba3-97d402541769}:c:\users\deneme\source\repos\akbanknewproject\core\utilities\results\iresult.cs
+++Result.cs
+i:{a7b01bbd-9e34-4794-bba3-97d402541769}:c:\users\deneme\source\repos\akbanknewproject\core\utilities\results\result.cs
+++SuccessDataResult.cs
+i:{a7b01bbd-9e34-4794-bba3-97d402541769}:c:\users\deneme\source\repos\akbanknewproject\core\utilities\results\successdataresult.cs
+++SuccessResult.cs
+i:{a7b01bbd-9e34-4794-bba3-97d402541769}:c:\users\deneme\source\repos\akbanknewproject\core\utilities\results\successresult.cs
+++Encryption
+i:{a7b01bbd-9e34-4794-bba3-97d402541769}:c:\users\deneme\source\repos\akbanknewproject\core\utilities\security\encryption\
+++Hashing
+i:{a7b01bbd-9e34-4794-bba3-97d402541769}:c:\users\deneme\source\repos\akbanknewproject\core\utilities\security\hashing\
+++JWT
+i:{a7b01bbd-9e34-4794-bba3-97d402541769}:c:\users\deneme\source\repos\akbanknewproject\core\utilities\security\jwt\
+++CacheAspect.cs
+i:{a7b01bbd-9e34-4794-bba3-97d402541769}:c:\users\deneme\source\repos\akbanknewproject\core\aspects\autofac\caching\cacheaspect.cs
+++CacheRemoveAspect.cs
+i:{a7b01bbd-9e34-4794-bba3-97d402541769}:c:\users\deneme\source\repos\akbanknewproject\core\aspects\autofac\caching\cacheremoveaspect.cs
+++PerformanceAspect.cs
+i:{a7b01bbd-9e34-4794-bba3-97d402541769}:c:\users\deneme\source\repos\akbanknewproject\core\aspects\autofac\performance\performanceaspect.cs
+++TransactionScopeAspect.cs
+i:{a7b01bbd-9e34-4794-bba3-97d402541769}:c:\users\deneme\source\repos\akbanknewproject\core\aspects\autofac\transaction\transactionscopeaspect.cs
+++ValidationAspect.cs
+i:{a7b01bbd-9e34-4794-bba3-97d402541769}:c:\users\deneme\source\repos\akbanknewproject\core\aspects\autofac\validation\validationaspect.cs
+++MemoryCacheManager.cs
+i:{a7b01bbd-9e34-4794-bba3-97d402541769}:c:\users\deneme\source\repos\akbanknewproject\core\crosscuttingconcerns\caching\microsoft\memorycachemanager.cs
+++SecurityKeyHelper.cs
+i:{a7b01bbd-9e34-4794-bba3-97d402541769}:c:\users\deneme\source\repos\akbanknewproject\core\utilities\security\encryption\securitykeyhelper.cs
+++SigningCredentialsHelper.cs
+i:{a7b01bbd-9e34-4794-bba3-97d402541769}:c:\users\deneme\source\repos\akbanknewproject\core\utilities\security\encryption\signingcredentialshelper.cs
+++HashingHelper.cs
+i:{a7b01bbd-9e34-4794-bba3-97d402541769}:c:\users\deneme\source\repos\akbanknewproject\core\utilities\security\hashing\hashinghelper.cs
+++AccessToken.cs
+i:{a7b01bbd-9e34-4794-bba3-97d402541769}:c:\users\deneme\source\repos\akbanknewproject\core\utilities\security\jwt\accesstoken.cs
+++ITokenHelper.cs
+i:{a7b01bbd-9e34-4794-bba3-97d402541769}:c:\users\deneme\source\repos\akbanknewproject\core\utilities\security\jwt\itokenhelper.cs
+++JwtHelper.cs
+i:{a7b01bbd-9e34-4794-bba3-97d402541769}:c:\users\deneme\source\repos\akbanknewproject\core\utilities\security\jwt\jwthelper.cs
+++TokenOptions.cs
+i:{a7b01bbd-9e34-4794-bba3-97d402541769}:c:\users\deneme\source\repos\akbanknewproject\core\utilities\security\jwt\tokenoptions.cs
