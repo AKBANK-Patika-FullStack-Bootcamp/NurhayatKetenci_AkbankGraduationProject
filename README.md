@@ -8,7 +8,7 @@
 
 <img src="https://github.com/AKBANK-Patika-FullStack-Bootcamp/NurhayatKetenci_AkbankGraduationProject/blob/master/akbankreadme/update.png"/>
 <img src="https://github.com/AKBANK-Patika-FullStack-Bootcamp/NurhayatKetenci_AkbankGraduationProject/blob/master/akbankreadme/schema.png"/>
-<img src="https://github.com/AKBANK-Patika-FullStack-Bootcamp/NurhayatKetenci_AkbankGraduationProject/blob/master/akbankreadme/loginf.png"/>
+
 <img src="https://github.com/AKBANK-Patika-FullStack-Bootcamp/NurhayatKetenci_AkbankGraduationProject/blob/master/akbankreadme/useradd.png"/>
 <img src="https://github.com/AKBANK-Patika-FullStack-Bootcamp/NurhayatKetenci_AkbankGraduationProject/blob/master/akbankreadme/userlist.png"/>
 <img src="https://github.com/AKBANK-Patika-FullStack-Bootcamp/NurhayatKetenci_AkbankGraduationProject/blob/master/akbankreadme/invoicesadd.png"/>
